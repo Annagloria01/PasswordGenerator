@@ -1,4 +1,4 @@
-public class Arraystringhe {
+public class ArrayStringhe {
     public static void main(String[] args) {
         String[] nomi = {"Anna", "Luca", "Alberto", "Giulia", "Andrea"};
 
